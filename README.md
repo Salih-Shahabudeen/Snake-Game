@@ -1,0 +1,1 @@
+Use Project.exe to run snake game
